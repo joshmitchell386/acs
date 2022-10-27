@@ -15,10 +15,10 @@ Remove the active class from the education <a> tag and add it to the class on th
           <a class="nav-link" href="willFormative.html">Healthcare</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="education.html">Education</a>
+          <a class="nav-link" href="education.html">Education</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="weather.html">Weather forecasting</a>
+          <a class="nav-link active" href="weather.html">Weather forecasting</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="communication.html">Communication</a>
